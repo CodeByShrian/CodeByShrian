@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Shrian
+# 👋 Hi, I’m Shrian a.k.a Shreyansh
 
 ## 👀 I’m interested in:
 - Software development and technology
